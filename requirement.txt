@@ -1,0 +1,4 @@
+pandas
+numpy
+scikit-learn
+tkinter # Built-in with Python (for GUI)
